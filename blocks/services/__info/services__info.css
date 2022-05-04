@@ -1,0 +1,6 @@
+.services__info {
+  margin: 0;
+  padding: 0 0 0 20px;
+  display: flex;
+  flex-direction: column;
+}

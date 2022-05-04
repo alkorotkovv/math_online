@@ -1,0 +1,9 @@
+.group__content {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

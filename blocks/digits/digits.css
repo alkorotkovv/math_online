@@ -1,0 +1,9 @@
+.digits {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 0 5px 10px lightgrey;
+}

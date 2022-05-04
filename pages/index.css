@@ -1,0 +1,92 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/animation/pulse/pulse.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/__link/button__link.css);
+
+@import url(../blocks/section-title/section-title.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__content/intro__content.css);
+@import url(../blocks/intro/__articles/intro__articles.css);
+@import url(../blocks/intro/__article/_white/intro__article_white.css);
+@import url(../blocks/intro/__article/_blue/intro__article_blue.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__article/intro__article.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__description/intro__description.css);
+@import url(../blocks/intro/__button/intro__button.css);
+
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/__title/digits__title.css);
+@import url(../blocks/digits/__content/digits__content.css);
+@import url(../blocks/digits/__cards/digits__cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__description/card__description.css);
+
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__content/services__content.css);
+@import url(../blocks/services/__block/services__block.css);
+@import url(../blocks/services/__image/services__image.css);
+@import url(../blocks/services/__items/services__items.css);
+@import url(../blocks/services/__item/services__item.css);
+@import url(../blocks/services/__info/services__info.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__subtitle/services__subtitle.css);
+@import url(../blocks/services/__description/services__description.css);
+
+@import url(../blocks/group/group.css);
+@import url(../blocks/group/__content/group__content.css);
+@import url(../blocks/group/__text/group__text.css);
+
+@import url(../blocks/schema/schema.css);
+@import url(../blocks/schema/__items/schema__items.css);
+@import url(../blocks/schema/__item/schema__item.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__vk/footer__vk.css);
+@import url(../blocks/footer/__vk-image/footer__vk-image.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/Inter-Regular.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Regular.woff?v=3.19) format("woff");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/Inter-Bold.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Bold.woff?v=3.19) format("woff");
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/Inter-Black.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Black.woff?v=3.19) format("woff");
+  }

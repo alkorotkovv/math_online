@@ -1,0 +1,9 @@
+.group__text {
+  margin: 0;
+  padding: 0 16px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 28px;
+  letter-spacing: -1px;
+}

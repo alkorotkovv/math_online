@@ -1,0 +1,9 @@
+.services__content {
+  width: 100%;
+  margin: 0;
+  padding: 50px 16px 0 16px;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+
+}
