@@ -13,6 +13,7 @@
 @media screen and (max-width: 767px) {
   .services__items {
     width: 100%;
+    gap: 10px;
     /*background-color: aquamarine;*/
   }
 }

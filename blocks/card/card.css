@@ -10,3 +10,19 @@
   align-items: center;
   justify-content: center;
 }
+
+@media screen and (max-width: 950px) {
+  .card {
+    padding: 0 10px;
+    width: 180px;
+    height: 180px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .card {
+    padding: 0 10px;
+    width: 150px;
+    height: 150px;
+  }
+}

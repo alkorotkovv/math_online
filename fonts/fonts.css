@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Cera Round Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('TypeMates  CeraRoundProRegular.woff') format('woff');
+  }
+
+
+  @font-face {
+  font-family: 'Cera Round Pro Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: url('TypeMates  CeraRoundProThin.woff') format('woff');
+  }
+
+
+  @font-face {
+  font-family: 'Cera Round Pro Light';
+  font-style: normal;
+  font-weight: normal;
+  src: url('TypeMates  CeraRoundProLight.woff') format('woff');
+  }
+
+
+  @font-face {
+  font-family: 'Cera Round Pro Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: url('TypeMates  CeraRoundProMedium.woff') format('woff');
+  }
+
+
+  @font-face {
+  font-family: 'Cera Round Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/CeraRoundPro-Bold.woff) format('woff');
+  }
+
+
+  @font-face {
+  font-family: 'Cera Round Pro Black';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/CeraRoundPro-Black.woff) format('woff');
+  }
+
+
+
+
+
+
+
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/Inter-Regular.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Regular.woff?v=3.19) format("woff");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../fonts/Inter-Bold.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Bold.woff?v=3.19) format("woff");
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../fonts/Inter-Black.woff2?v=3.19) format("woff2"),
+         url(../fonts/Inter-Black.woff?v=3.19) format("woff");
+  }

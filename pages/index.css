@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
 
@@ -66,29 +67,3 @@
 @import url(../blocks/footer/__vk-image/footer__vk-image.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../fonts/Inter-Regular.woff2?v=3.19) format("woff2"),
-         url(../fonts/Inter-Regular.woff?v=3.19) format("woff");
-}
-
-@font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../fonts/Inter-Bold.woff2?v=3.19) format("woff2"),
-         url(../fonts/Inter-Bold.woff?v=3.19) format("woff");
-  }
-
-  @font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../fonts/Inter-Black.woff2?v=3.19) format("woff2"),
-         url(../fonts/Inter-Black.woff?v=3.19) format("woff");
-  }
