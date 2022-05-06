@@ -7,3 +7,13 @@
   box-sizing: border-box;
 
 }
+
+@media screen and (max-width: 767px) {
+  .services__content {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 16px;
+
+  }
+
+}

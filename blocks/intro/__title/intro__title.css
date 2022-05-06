@@ -1,13 +1,22 @@
 .intro__title {
   margin: 0;
-  padding: 0;
+  padding: 0 16px;
+  box-sizing: border-box;
   font-weight: 900;
   font-size: 46px;
-  line-height: 48px;
+  line-height: 1;
   text-align: center;
   color: rgb(23, 76, 126);
 
   letter-spacing: -1px;
   text-transform: uppercase;
 
+}
+
+
+@media screen and (max-width: 767px) {
+  .intro__title {
+    font-size: 36px;
+    /*background-color: aquamarine;*/
+  }
 }

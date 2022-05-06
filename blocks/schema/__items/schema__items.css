@@ -7,3 +7,11 @@
   gap: 16px 12px;
   list-style-type: none;
 }
+
+@media screen and (max-width: 767px) {
+  .schema__items {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 12px 12px;
+  }
+}

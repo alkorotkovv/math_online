@@ -14,7 +14,7 @@
 
   font-weight: 400;
   font-size: 28px;
-  line-height: 38px;
+  line-height: 1.2;
   letter-spacing: -2px;
   text-transform: uppercase;
 
@@ -24,4 +24,14 @@
 .button:hover {
   transform: scale(1.05);
   background-color: rgb(120, 191, 224);
+}
+
+@media screen and (max-width: 767px) {
+  .button {
+    min-width: 150px;
+    font-size: 20px;
+
+  }
+
+
 }

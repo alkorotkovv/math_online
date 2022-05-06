@@ -1,3 +1,4 @@
 .services__image {
-  width: 500px;
+  /*idth: 500px;*/
+  width: 100%;
 }
