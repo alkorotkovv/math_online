@@ -1,5 +1,16 @@
 .card__description {
+  max-width: 85%;
   margin: 0;
-  padding: 10px 0 0 0;
+  padding: 10px 5px;
+  box-sizing: border-box;
   text-align: center;
+  font-size: 20px;
+  line-height: 1.1;
+
+}
+
+@media screen and (max-width: 950px) {
+  .card__description {
+    font-size: 16px;
+  }
 }
