@@ -14,7 +14,6 @@
   .services__items {
     width: 100%;
     padding: 0 0 20px 0;
-    gap: 16px;
     /*background-color: aquamarine;*/
   }
 }
