@@ -1,0 +1,21 @@
+.header__description {
+  margin: 0;
+  padding: 0 0 0 5px;
+  max-width: 150px;
+  font-size: 16px;
+  line-height: 1;
+  color: gray;
+}
+
+@media screen and (max-width: 950px) {
+  .header__description {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .header__description {
+    font-size: 12px;
+  }
+}
