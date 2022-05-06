@@ -10,3 +10,9 @@
   border: 4px solid rgb(128, 208, 245);
   border-radius: 10px;
 }
+
+@media screen and (max-width: 767px) {
+  .schema__item {
+    padding: 10px 10px;
+  }
+}

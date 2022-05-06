@@ -7,3 +7,8 @@
   color: gray;
 }
 
+@media screen and (max-width: 767px) {
+  .services__description {
+    padding-top: 5px;
+  }
+}
