@@ -6,7 +6,6 @@
 @import url(../blocks/animation/pulse/pulse.css);
 
 @import url(../blocks/button/button.css);
-@import url(../blocks/button/__link/button__link.css);
 
 @import url(../blocks/section-title/section-title.css);
 
@@ -16,8 +15,8 @@
 @import url(../blocks/header/__description/header__description.css);
 @import url(../blocks/header/__logodescription/header__logodescription.css);
 @import url(../blocks/header/__burger/header__burger.css);
-@import url(../blocks/header/__burger/_type_span/header__burger_type_span.css);
 @import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu/_opened/header__menu_opened.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
 
@@ -32,10 +31,8 @@
 @import url(../blocks/intro/__article/intro__article.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__description/intro__description.css);
-@import url(../blocks/intro/__button/intro__button.css);
 
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__title/digits__title.css);
 @import url(../blocks/digits/__content/digits__content.css);
 @import url(../blocks/digits/__cards/digits__cards.css);
 @import url(../blocks/card/card.css);
@@ -68,4 +65,3 @@
 @import url(../blocks/footer/__vk/footer__vk.css);
 @import url(../blocks/footer/__vk-image/footer__vk-image.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-

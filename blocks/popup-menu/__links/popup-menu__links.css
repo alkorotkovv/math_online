@@ -1,0 +1,13 @@
+.popup-menu__links {
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 20px;
+  list-style-type: none;
+  background-color: yellow;
+  position: absolute;
+  top: 80px;
+  right: 0px;
+}
